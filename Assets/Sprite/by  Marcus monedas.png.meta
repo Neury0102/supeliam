@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 7b124cf67f02b854d9f0d7f61319ccec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: by  Marcus monedas
+    21300002: by  Marcus monedas_0
+    21300004: by  Marcus monedas_1
+    21300006: by  Marcus monedas_2
+    21300008: by  Marcus monedas_3
+    21300010: by  Marcus monedas_4
+    21300012: by  Marcus monedas_5
+    21300014: by  Marcus monedas_6
+    21300016: by  Marcus monedas_7
+    21300018: by  Marcus monedas_8
+    21300020: by  Marcus monedas_9
+    21300022: by  Marcus monedas_10
+    21300024: by  Marcus monedas_11
+    21300026: by  Marcus monedas_12
+    21300028: by  Marcus monedas_13
+    21300030: by  Marcus monedas_14
+    21300032: by  Marcus monedas_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: by  Marcus monedas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: by  Marcus monedas_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

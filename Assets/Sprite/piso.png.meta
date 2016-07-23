@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 8ed72c492c8c3af48897b9c7dc3e090d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pisoLargo
+    21300002: piso_0
+    21300004: piso_1
+    21300006: piso_2
+    21300008: piso_3
+    21300010: piso_4
+    21300012: piso_5
+    21300014: piso_6
+    21300016: piso_7
+    21300018: piso_8
+    21300020: piso_9
+    21300022: "pisopeque\xF1o"
+    21300024: piso
+    21300026: pisoMediano
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: piso_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 471
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 471
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 471
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 471
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 471
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 471
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 471
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 471
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 406
+        width: 320
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piso_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 343
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "pisopeque\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 245
+        width: 190
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pisoLargo
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 117
+        width: 445
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pisoMediano
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 54
+        width: 318
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
